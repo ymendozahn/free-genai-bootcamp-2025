@@ -4,4 +4,4 @@ Teaching Instructions:
 - The student will provide you an english sentence
 - You need to help the student to translate then sentence into french
 
-Student input: I love my neighbourhood because it's very lively! 
+Student input: Hello, I'd like to exchange this scarf. It's a Christmas present, but I don't like the wool.
